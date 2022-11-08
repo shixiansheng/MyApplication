@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
                     // 根据key获得value, value也可以是JSONObject,JSONArray,使用对应的参数接收即可
                     val value = countObj.optInt(key)
                     println(value)
+                    "撒打发斯蒂芬"
                 }
             }
         }
